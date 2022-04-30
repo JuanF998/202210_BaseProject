@@ -1,21 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
-.container {
-  padding: 10px;
-}
-
 h3 {
-  font-family: 'Kaisei Decol', serif;
+  font-family: "Kaisei Decol", serif;
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
 }
 
-
-
 footer {
   bottom: 0;
   display: flex;
   justify-content: center;
-  margin-top: 5em;
+  margin-top: 2em;
+}
+
+.container{
+  margin-top: 0.5em;
 }
